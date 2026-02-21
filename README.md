@@ -39,19 +39,19 @@
 - Built using HTML and CSS
 - Future plan: Add login system and backend
 
-### 💰 Expense Tracker
+[### 💰 Expense Tracker](https://github.com/RhaeGA/Expense-Tracker)
 - Track daily expenses
 - JavaScript-based application
 - Simple and user-friendly interface
 
-### 💱 Currency Converter
+[### 💱 Currency Converter](https://github.com/RhaeGA/Currency-Converter)
 - Real-time currency conversion
 - API integration with JavaScript
 
-### 🧮 Calculator
+[### 🧮 Calculator]()
 - Basic calculator with clean UI
 
-👉 Check out more projects in my repositories!
+👉 [Check out more projects in my repositories!](https://github.com/RhaeGA?tab=repositories)
 
 ---
 
