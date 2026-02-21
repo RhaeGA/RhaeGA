@@ -33,7 +33,7 @@
 
 ## 🚀 Projects
 
-### 💼 Job Listing Platform ⭐
+[### 💼 Job Listing Platform ⭐](https://github.com/RhaeGA/Job-listing-platform)
 - Job search and listing web platform
 - Users can browse available job opportunities
 - Built using HTML and CSS
