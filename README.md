@@ -48,7 +48,7 @@
 - Real-time currency conversion
 - API integration with JavaScript
 
-[### 🧮 Calculator]()
+[### 🧮 Calculator](https://github.com/RhaeGA/Calculator)
 - Basic calculator with clean UI
 
 👉 [Check out more projects in my repositories!](https://github.com/RhaeGA?tab=repositories)
